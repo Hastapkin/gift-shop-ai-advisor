@@ -94,7 +94,7 @@
 ## 🏗️ Project Architecture
 
 ```
-gift-shop-erp/
+gift-shop-ai-advisor/
 ├── 📁 app/
 │   ├── 🔧 services/           # Business Logic Layer
 │   │   ├── 🤖 gemini_chatbot_service.py    # AI Chatbot Engine
