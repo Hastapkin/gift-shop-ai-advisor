@@ -56,7 +56,7 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Hastapkin/gift-shop-ai-advisor.git
-   cd gift-shop-erp
+   cd gift-shop-ai-advisor
    ```
 
 2. **Set up Python environment**
